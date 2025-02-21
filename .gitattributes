@@ -1,0 +1,2 @@
+*lehtal* filter=lfs diff=lfs merge=lfs -text
+*lethal* filter=lfs diff=lfs merge=lfs -text
